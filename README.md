@@ -1,1 +1,0 @@
-# codespindle_idea
