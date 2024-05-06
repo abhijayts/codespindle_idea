@@ -371,7 +371,6 @@ h3+p {
 
     .search {
         margin-top: 20px;
-        z-index: 2;
         position: sticky;
         top: 90px;
         display: flex;
